@@ -2157,6 +2157,14 @@ nav a:hover {
   margin-bottom: 20px;
 }
 
+.product-content h1 {
+  text-align: center;
+  font-size: 58px;
+  font-weight: 700;
+  line-height: 1.15em;
+  margin-bottom: 20px;
+}
+
 @media (max-width: 991px) {
   .banner-content h1 {
     font-size: 36px;
